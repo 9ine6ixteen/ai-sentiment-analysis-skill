@@ -1,0 +1,42 @@
+[
+  {
+    "path": "README.md",
+    "sha256": "38de38f7cdbaa6099806021bbe38c2d2dd13e2e6356474c30172849ae023077d"
+  },
+  {
+    "path": "examples/合成演示数据.csv",
+    "sha256": "9acb0cf05da689808585877e4ce4c35dc7378d74bdc4b0c9ef4029ec50617f58"
+  },
+  {
+    "path": "ai-sentiment-analysis/SKILL.md",
+    "sha256": "8c3e0a375bb8d2f31f7193d2c32a67c09834c8031f2bb96853cf4c1eec84fde8"
+  },
+  {
+    "path": "ai-sentiment-analysis/references/schema.md",
+    "sha256": "3f4528bd2398b8f526c453df449da6509e1fba67c7babc7ae73a2f7e67ebdf0c"
+  },
+  {
+    "path": "ai-sentiment-analysis/references/research-configuration.md",
+    "sha256": "762b6c1a472d4f26f43eb0ade839dd300fdeb573816ea1510185ba411577e6c1"
+  },
+  {
+    "path": "ai-sentiment-analysis/agents/openai.yaml",
+    "sha256": "391d3885359f73b4e2bdb4884ee0ad394c90d46297acca211f1a8e29038e0cd8"
+  },
+  {
+    "path": "ai-sentiment-analysis/scripts/check_config.py",
+    "sha256": "eac1ea2380118d9b00d71d81f0fccb30489eb7348c8adef03d98c67eb5104b3a"
+  },
+  {
+    "path": "ai-sentiment-analysis/scripts/validate_results.py",
+    "sha256": "943b96ad1cb4f34311429084b23e8ecc08919d6c1c8733d80bb5059b940a3fb9"
+  },
+  {
+    "path": "ai-sentiment-analysis/assets/course-reviewed-config.json",
+    "sha256": "6567fcf31f8c00890b8fc770c0fb251a560fff7e6215ee0b2b17f079ae8029ff"
+  },
+  {
+    "path": "ai-sentiment-analysis/assets/three-class-reviewed-config.json",
+    "sha256": "c30e9e9306f90e34f740ffc0174d19cfd2cd39787875eaf63971f9e63e072b8a"
+  }
+]

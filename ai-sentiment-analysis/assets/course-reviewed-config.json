@@ -1,0 +1,35 @@
+{
+  "skill_version": "1.1.1",
+  "codebook_version": "course-binary-draft-1",
+  "mode": "analyze_reviewed",
+  "research_question": "展示人工核验后的评论情感分布与基础统计分析",
+  "research_target": "沿用共同研究范围，不重新编码人工标签",
+  "coding_unit": "comment",
+  "source": {
+    "path": "示范数据.xlsx",
+    "sheet": "Sheet1",
+    "confirmed": false
+  },
+  "columns": {
+    "id": "sample",
+    "text": "comment_text",
+    "sentiment": "emotion",
+    "likes": "likes",
+    "stage": "phase"
+  },
+  "labels": [
+    "正面",
+    "负面"
+  ],
+  "value_map": {
+    "1": "正面",
+    "-1": "负面"
+  },
+  "out_of_scope_policy": "report_and_stop_dependent_analysis",
+  "missing_label_policy": "report_and_stop_dependent_analysis",
+  "mixed_policy": "review_without_forcing_binary",
+  "irony_policy": "review_when_evidence_is_ambiguous",
+  "tasks": [],
+  "analysis_confirmed": false,
+  "extensions": []
+}
